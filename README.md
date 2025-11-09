@@ -19,6 +19,9 @@ PENN
 └── requirements.txt    # Required dependencies
 ```
 
+The .zip files should be unzipped in the project folder.
+Additionally, the data folder should be downloaded from the "Releases" section and also unzipped within the project folder.
+
 ## Requirements
 
 To run the project, make sure you have the following dependencies installed. You can install them using `pip`:
